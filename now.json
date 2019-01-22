@@ -3,5 +3,5 @@
  "builds": [
   { "src": "server/app.js", "use": "@now/node-server" },
   { "src": "package.json", "use": "@now/static-build" }
- ],
+ ]
 }
